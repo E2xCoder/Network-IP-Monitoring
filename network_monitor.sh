@@ -13,8 +13,8 @@ last_ipv4=""
 last_ipv6=""
 
 # Telegram bot token and chat_id
-TELEGRAM_BOT_TOKEN="7617077115:AAGggGaayakdtzwcS09C7DX25TLw-bNJThw"
-TELEGRAM_CHAT_ID="7647787833"
+TELEGRAM_BOT_TOKEN="TELEGRAM_BOT_TOKEN_IN_HERE"
+TELEGRAM_CHAT_ID="TELEGRAM_CHAT_ID_IN_HERE"
 
 send_telegram() {
     local message="$1"
