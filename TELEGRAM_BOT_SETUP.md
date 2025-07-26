@@ -29,6 +29,7 @@ It looks like this:
 ```plaintext
 123456789:ABCDefGhIjKlMnOpQrStUvWxYz1234567890
 
+```
 ## Step 5: Save Your Token Securely
 Keep this token private.
 
