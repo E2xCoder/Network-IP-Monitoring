@@ -50,4 +50,5 @@ Use that number as your chat ID.
 Edit the script variables:
 
 TELEGRAM_BOT_TOKEN="your_bot_token_here"
+
 TELEGRAM_CHAT_ID="your_chat_id_here"
