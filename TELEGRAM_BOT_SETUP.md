@@ -16,9 +16,9 @@ Click **Start** or send `/start` command.
 
 Send the command: `/newbot`
 
-BotFather will ask for a name for your bot (example: `MyNetworkMonitorBot`).
+BotFather will ask for a name for your bot (example: `Mycode`).
 
-Then it will ask for a username ending with **bot** (example: `mynetworkmonitorbot`).
+Then it will ask for a username ending with **bot** (example: `mycodebot`).
 
 ## Step 4: Get Your Bot Token
 
