@@ -28,3 +28,26 @@ It looks like this:
 
 ```plaintext
 123456789:ABCDefGhIjKlMnOpQrStUvWxYz1234567890
+
+## Step 5: Save Your Token Securely
+Keep this token private.
+
+Do not share your token publicly or commit it to public repositories.
+
+## Step 6: Find Your Chat ID
+To send messages, you need your chat ID.
+
+You can get your chat ID by sending a message to your bot and then using a service or script that reads updates from the bot.
+
+For example, visit this URL (replace YOUR_BOT_TOKEN):
+
+https://api.telegram.org/botYOUR_BOT_TOKEN/getUpdates
+Look for "chat":{"id":123456789} in the JSON response.
+
+Use that number as your chat ID.
+
+## Step 7: Add Token and Chat ID to Script
+Edit the script variables:
+
+TELEGRAM_BOT_TOKEN="your_bot_token_here"
+TELEGRAM_CHAT_ID="your_chat_id_here"
