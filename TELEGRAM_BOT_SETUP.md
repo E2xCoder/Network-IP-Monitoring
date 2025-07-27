@@ -52,3 +52,5 @@ Edit the script variables:
 TELEGRAM_BOT_TOKEN="your_bot_token_here"
 
 TELEGRAM_CHAT_ID="your_chat_id_here"
+
+![WhatsApp Image 2025-07-28 at 00 26 27_723cf510](https://github.com/user-attachments/assets/ac6d1887-e948-4ae5-bad1-946abf7b559f)
